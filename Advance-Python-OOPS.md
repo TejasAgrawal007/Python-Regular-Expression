@@ -185,5 +185,3 @@ class Car:
 ```
 
 ---
-
-Would you like me to guide you through these one by one with small hands-on tasks or real-life examples next?
